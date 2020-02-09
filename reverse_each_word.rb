@@ -6,5 +6,5 @@ array = string.split(" ")
 array.map(&:reverse!)
 array.join(" ")
 
-#.collect
+
 end 
